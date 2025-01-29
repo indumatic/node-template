@@ -1,3 +1,1 @@
-```bash
-npm init
-```
+# `Node.js` template project
